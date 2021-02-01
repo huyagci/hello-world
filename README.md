@@ -1,2 +1,3 @@
 # hello-world
-test repository
+
+Currently learning HTML and CSS.
